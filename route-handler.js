@@ -88,11 +88,3 @@ app.get("/balance/sheet/:mobileNumber", async (req,res)=>{
         throw err;
     }
 })
-
-
-
-
-
-
-
-
